@@ -1,8 +1,12 @@
 ### Hey folks 👋
 
-- 🔭 I’m Mark Morowczynski
-- 🤔 I’m on Twitter https://twitter.com/markmorow
-- 🤔 I’m on Mastadon ![Mastodon Follow](https://img.shields.io/mastodon/follow/109291725948763887?domain=https%3A%2F%2Finfosec.exchange&style=social)
+- 🔭 I’m Mark Morowczynski, a Principal Product Manager at Microsoft in the Identity Division
+- 🌱 I’m currently learning Objective-C, Swift and Python
+- 😄 Pronouns: he/him/his
+- 📫 How to reach me: Any of these social media platforms :point_down:
+- ![Twitter Follow](https://img.shields.io/twitter/follow/markmorow?style=social)
+- ![Mastodon Follow](https://img.shields.io/mastodon/follow/109291725948763887?domain=https%3A%2F%2Finfosec.exchange&style=social)
+- [![Linked Contact](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/markmorow)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarkMorow&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMorow&layout=compact"/>
