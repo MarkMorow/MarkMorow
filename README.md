@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey folks 👋
 
 - 🔭 I’m Mark Morowczynski
 - 🤔 I’m on Twitter https://twitter.com/markmorow
-- 🤔 I’m on Mastadon https://infosec.exchange/@markmorow
+- 🤔 I’m on Mastadon ![Mastodon Follow](https://img.shields.io/mastodon/follow/109291725948763887?domain=https%3A%2F%2Finfosec.exchange&style=social)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MarkMorow&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMorow&layout=compact"/>
