@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m Mark Morowczynski
+- 🤔 I’m on Twitter https://twitter.com/markmorow
+- 🤔 I’m on Mastadon https://infosec.exchange/@markmorow
+
+<img src="https://github-readme-stats.vercel.app/api?username=MarkMorow&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMorow&layout=compact"/>
+
 <!--
 **MarkMorow/MarkMorow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
