@@ -1,6 +1,6 @@
 ### Hey folks 👋
 
-- 🔭 I’m Mark Morowczynski, a Principal Product Manager at Microsoft in the Identity Division
+- 🔭 I’m Mark Morowczynski, a Principal Product Manager on the Security Customer Experience Engineering (CxE) team at Microsoft 
 - 🌱 I’m currently learning Objective-C, Swift and Python
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: 
